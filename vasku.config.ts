@@ -34,8 +34,7 @@ const config: Config = {
       'TokenWallet.tsol',
       'TokenWalletPlatform.tsol',
       'TokenWalletUpgradeable.tsol',
-      'aditional/Selector.tsol',
-      'aditional/Wallet.tsol',
+      'additional/Selector.tsol',
       'tests/Callbacks.tsol'
     ],
 

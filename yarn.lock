@@ -3385,9 +3385,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vasku-counter@workspace:.":
+"vasku-keys@npm:^0.0.3":
+  version: 0.0.3
+  resolution: "vasku-keys@npm:0.0.3"
+  dependencies:
+    vasku: ^0.0.5
+  checksum: ff0f350494a2c0cf002a18eeef377c5d28da7e4444b89649754c65188434ba989e07ffdf7357f3ec9ad04340b41339b50e40ca3e244bd60881e10796bb098810
+  languageName: node
+  linkType: hard
+
+"vasku-tip3@workspace:.":
   version: 0.0.0-use.local
-  resolution: "vasku-counter@workspace:."
+  resolution: "vasku-tip3@workspace:."
   dependencies:
     "@types/chai": ^4.3.5
     "@types/mocha": ^10.0.1
@@ -3403,15 +3412,6 @@ __metadata:
     vasku-keys: ^0.0.3
   languageName: unknown
   linkType: soft
-
-"vasku-keys@npm:^0.0.3":
-  version: 0.0.3
-  resolution: "vasku-keys@npm:0.0.3"
-  dependencies:
-    vasku: ^0.0.5
-  checksum: ff0f350494a2c0cf002a18eeef377c5d28da7e4444b89649754c65188434ba989e07ffdf7357f3ec9ad04340b41339b50e40ca3e244bd60881e10796bb098810
-  languageName: node
-  linkType: hard
 
 "vasku@npm:^0.0.11":
   version: 0.0.11
